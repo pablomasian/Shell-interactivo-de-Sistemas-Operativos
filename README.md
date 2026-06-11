@@ -38,6 +38,28 @@ Entre los comandos implementados se encuentran:
 - `bye`
 
 Para ver la ayuda de cada comando, ejecuta:
-
-```bash
+```
 ayuda
+```
+
+## Compilación:
+En un entorno Linux/Unix, puedes compilarlo con:
+```
+gcc p2.c -o p2
+```
+
+##Ejecución:
+ ```
+./p2
+ ```
+
+## Uso
+Al iniciar, el programa mostrará un prompt y podrás introducir comandos de forma interactiva.
+Ejemplo:
+```
+--> ayuda
+--> autores
+--> pid
+--> list
+--> salir
+ ```
